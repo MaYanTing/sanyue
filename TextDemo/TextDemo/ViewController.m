@@ -9,11 +9,7 @@
 #import "ViewController.h"
 #import "Masonry.h"
 
-@interface ViewController (){
-
-    NSArray * array;
-    
-}
+@interface ViewController ()
 
 @end
 
